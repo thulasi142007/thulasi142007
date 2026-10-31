@@ -80,17 +80,6 @@
 
 </div>
 
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thulasi142007/thulasi142007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-
-</div>
-
----
 
 ## 🎯 Currently Exploring
 
